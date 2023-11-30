@@ -1,2 +1,9 @@
-import cv2
-image = cv2.imread()
+import pixellib
+import tensorflow
+def aimage():
+    predmet = instance
+def poisk():
+    aimage()
+if __name__ == '__name__':
+    poisk()
+print("hello")
